@@ -92,7 +92,7 @@ it can easily be updated and modified, and new methods can easily be added to mo
 
 ## Instruction
 
-Download the *__Task 3.8__* folder and open the folder as a project in an ide of choice and run the code.
+Download the all the files and open all the *__.java__* files in the *__bin__* folder in an ide of choice and run the code.
 
 ## Contributors
 
